@@ -1,0 +1,52 @@
+body {
+    background-image: url("timer.jpg");
+    background-size: cover;
+    font-family: 'Marhey', cursive;
+    font-weight: bold;
+    text-align: center;
+    border: 5px dotted black;
+    
+}
+
+#app{
+    width: auto;
+}
+
+h1 {
+    color: burlywood;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+h2 {
+    color: burlywood;
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+p{
+    color: palegoldenrod;
+    font-size: large;
+    text-shadow: 0 0 2px black;
+}
+
+button {
+    border: 1px solid black;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bolder;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 50%;
+}
+
+#increment-btn {
+    background: brown;
+}
+
+#save-btn {
+    background: darkgreen;
+}
+
